@@ -1,6 +1,48 @@
-# Getting Started with Create React App
+<h1 align="center">Rick & Morty Wiki</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+Rick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon Network's nighttime programming block, Adult Swim. The series follows the misadventures of cynical mad scientist Rick Sanchez and his good-hearted, but fretful grandson Morty Smith, who split their time between domestic life and interdimensional adventures.
+
+Roiland voices the eponymous characters, with Chris Parnell, Spencer Grammer and Sarah Chalke voicing the rest of Rick and Morty's family. The series originated from an animated short parody film of Back to the Future, created by Roiland for Channel 101, a short film festival co-founded by Harmon. The series has been acclaimed by critics for its originality, creativity and humor.
+
+The fifth season premiered on June 20, 2021, and consisted of ten episodes. A sixth season was confirmed as part of a long-term deal in May 2018 that ordered 70 new episodes over an unspecified number of seasons.
+
+>I Like Rick & Morty so created this Wiki.
+
+## Feature
+This wikipedia helps you to find all the character's of the Rick & Morty series. Also we can `Filter` the data on the basis of character's _Status_, _Species_, or on the basis of it's _Gender_. Also we clear filter's.
+
+We can also `Search` the character. In addition, we can know the `Episodes` and `Location` of the character's on episode and location tab on the navbar. 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And hosted on [Netlify](https://www.netlify.com/).
+
+### Packages installation steps
+
+```
+npx create-react-app .
+
+npm install bootstrap
+
+npm install @popperjs/core --save
+
+npm install sass
+
+npm install react-paginate --save
+
+npm install react-router-dom
+
+npm start
+```
+
+## Preview
+![image](https://github.com/TheNewC0der-24/RickandMorty-Wiki/blob/master/Preview.png)
+
+## Link
+	https://rickandmorty-wikipedia.netlify.app/
+  
+<p align="center">Hope you like this application 😊</p>
+  
+---
 
 ## Available Scripts
 
@@ -39,32 +81,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
