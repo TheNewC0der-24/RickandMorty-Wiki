@@ -16,6 +16,10 @@ We can also `Search` the character. In addition, we can know the `Episodes` and 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And hosted on [Netlify](https://www.netlify.com/).
 
+## Built With
+|Bootstrap|REACT.JS|
+|---|---|
+
 ### Packages installation steps
 
 ```
