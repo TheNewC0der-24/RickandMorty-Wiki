@@ -10,7 +10,7 @@ The fifth season premiered on June 20, 2021, and consisted of ten episodes. A si
 >I Like Rick & Morty so created this Wiki.
 
 ## Feature
-This wikipedia helps you to find all the character's of the Rick & Morty series. Also we can `Filter` the data on the basis of character's _Status_, _Species_, or on the basis of it's _Gender_. Also we clear filter's.
+This wikipedia helps you find all the character's of the Rick & Morty series. Also, we can `Filter` the data on the basis of character's _Status_, _Species_, or on the basis of it's _Gender_. Moreover, we clear filter's.
 
 We can also `Search` the character. In addition, we can know the `Episodes` and `Location` of the character's on episode and location tab on the navbar. 
 
@@ -38,8 +38,10 @@ npm start
 ![image](https://github.com/TheNewC0der-24/RickandMorty-Wiki/blob/master/Preview.png)
 
 ## Link
-	https://rickandmorty-wikipedia.netlify.app/
-  
+```
+https://rickandmorty-wikipedia.netlify.app/
+```
+
 <p align="center">Hope you like this application 😊</p>
   
 ---
