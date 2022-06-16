@@ -14,7 +14,9 @@ This wikipedia helps you find all the character's of the Rick & Morty series. Al
 
 We can also `Search` the character. In addition, we can know the `Episodes` and `Location` of the character's on episode and location tab on the navbar. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And hosted on [Netlify](https://www.netlify.com/).
+Detailed info on characters by just clicking their photo card.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And hosted on [Netlify](https://www.netlify.com/), hence accessible anywhere.
 
 ## Built With
 |Bootstrap|REACT.JS|
